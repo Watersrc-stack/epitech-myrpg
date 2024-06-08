@@ -1,0 +1,33 @@
+1 {
+    n: Qui etes-vous ?
+    p: ...
+    n: Vous dites ?
+    p: ...
+    n: J'ai l impression que vous n'arrivez pas a parler.
+    p: ...
+    n: Cela confirme ce que je pensais. C'est \ntres etrange, j ai l impression que vous ne venez pas d'ici.
+    n: Avant tout, il va vous falloir obtenir \nECHO. Ensuite, revenez me voir, je vous expliquerai tout.
+}
+
+2 {
+    n: Vous revoila ?!
+    n: Arrivez-vous a parler maintenant ?
+    p: Oui.
+    p: Je peux parler, j y arrive. Comment ca se fait ?
+    n: Ici, pour pouvoir communiquer ou \neffectuer des actions, il faut obtenir des\nfonctions systeme.
+    n: Desormais, vous pouvez communiquer car \nvous avez obtenu ECHO.
+    p: Ou suis-je ? Qui etes-vous ?
+    n: Je vais tout vous expliquer. Je me nomme \nCPU. Je suis ce que vous pourriez definir comme un dieu.\nIci, nous sommes dans ce qu on appelle les Corelands.
+    n: Depuis quelque temps, il se passe beaucoup\nd evenements etranges. Je ne saurais pas vous expliquer\ncomment, mais un etre exterieur a notre monde\nest arrive ici.
+    p: Corelands ?
+    n: Si vous ne connaissez pas cet endroit, \nc est tres certainement vous cette personne.
+    n: Avant votre arrivee, il a commence a se \npasser des choses etranges, comme je vous l'ai dit.\nPourriez-vous m aider a reconstituer Coreland ?
+    n: Pour cela, il vous faudra eliminer toutes \nles erreurs de memoire qui se sont introduites ici.
+    n: Je ne peux pas effectuer cette tache \nmalheureusement.
+    p: Oui, bien sur, je veux bien vous aider.
+    p: Comment dois-je faire pour rentrer chez moi ?
+    n: Actuellement, je ne peux pas vous renvoyer chez vous.
+    n: Quand vous aurez elimine les erreurs de \nmemoire, j'aurai recupere les pleins pouvoirs\nsur ce monde et alors j'aurai la capacite de vous\nrenvoyer chez vous.
+    p: D'accord, je vais le faire alors.
+    n: Merci de votre aide, vous n'avez plus \nbeaucoup de temps. Les erreurs essaient de nous effacer.
+}

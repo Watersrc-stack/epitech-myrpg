@@ -1,0 +1,11 @@
+1 {
+    n: Arretez-vous !
+    p: ...
+    n: Vous ne pouvez pas avancer sans une arme. Prenez ceci.
+    n: Dans ce monde, pour realiser certaines actions,\nvous devez trouver des fichiers binaires,\nici ils consideres comme sacres faites\ny tres attention !
+    n: Le fichier binaire ECHO vous permettra de\nrecuperer votre voix. Cherchez-le, et\nensuite vous pourrez avancer plus facilement.
+}
+
+2 {
+    n: Bonne chance dans votre quete !
+}

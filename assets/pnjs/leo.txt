@@ -1,0 +1,11 @@
+1 {
+	n: Bonjour, que fais-tu ici ?!
+	p: Bonjour Leo, je venais voir si tu etais disponible\npour que je te demande quelque chose ?
+	n: Non pas maintenant, il y a les stumpers, tu ne dois\npas travailler sur ton rpg ? Depeche toi maintenant\nva travailler le rendu est bientot !
+	p: D accord, a plus tard.
+}
+
+2 {
+	n: Bonjour a toutes et a tous
+	n: Bienvenue\na cette soiree de presentation des projets rpg\ndes eleves de premiere annee.
+}

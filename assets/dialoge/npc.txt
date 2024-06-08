@@ -1,0 +1,54 @@
+“pour avancer appuyer sur Flèche du Haut”
+“pour reculer appuyer sur Flèche du Bas”
+“pour aller à gauche appuyer sur Flèche de Gauche”
+“pour aller à droite appuyer sur Flèche de Droite”
+
+“pour interagir appuyer sur ‘E’ essayé avec Léo”
+
+NPC (Léo) {
+    n: Bonjour /player name\, que fais-tu ici ?!
+    p: Bonjour Léo, je venais voir si tu étais disponible pour que je te demander quelque chose ?
+    n: Non pas maintenant il y a les stumpers, tu ne dois pas travailler sur ton rpg ? dépêche toi maintenant  va travailler le rendu est bientôt !
+    p: D’accord, à plus tard.
+    n: ...
+}
+
+NPC (CPU) {
+    1 {
+        n: Qui étes vous ?
+        p: ...
+        n: Vous dites ?
+        p: ...
+        n: J'ai l'impression que vous n'arriver pas à parler.
+        p: ...
+        n: Cela confirme ce que je penser c'est tres étranges, j'ai l'impréssion que vous ne venez pas d'ici.
+        n: Avant tout il va vous falloir obtenir ECHO, ensuite revenez me voir je vous expliquerais tout.
+    }
+    2 {
+        n: Vous revoila ?!
+        n: Arrivez vous à parler maintenant ?
+        p: Oui.
+        p: Je peut parler, j'y arrive comment sa ce fait ?
+        n: Ici pour pouvoir communique ou effectuer des action il faut obtenir des fonctions system
+        n: Désormais vous pouvez communiquer car vous avez obtenus ECHO
+        p: Ou suis je ? Qui etes vous ?
+        n: Je vais tout vous expliquer, Je me nomme CPU, je suis ce que vous pourriez definir comme un dieux, ici nous sommes dans ce qu'on appelle corelands.
+        n: Depuis quelque temps ils ce passent beaucoup d'événement étrange, je ne serais pas vous expliquer comment mais un étres exterieur mon monde est arriver ici.
+        p: Corelands ?
+        n: Si vous ne connaissais pas c'est très certainement vous cette étes cette personne.
+        n: Avant votre arrivé il à commencé a ce passer des choses étrange comme je vous l'ai dit, pourriez-vous m'aider à reconstituez coreland ?
+        n: Pour cela il vous faudra éliminez tout les erreurs de mémoire qui ce son entroduit ici.
+        n: Je ne peut pas effectuer cette tache malleureusement.
+        p: Oui, bien-sur je veut bien vous aider.
+        p: Comment est ce que je dois faire pour rentrer chez moi ?
+        n: Actuellement je ne peut pas vous renvoyer chez vous.
+        n: Quand vous aurez éliminez les erreurs de mémoire j'aurais récupérer les pleins pouvoir sur ce monde et alors j'aurais la capacité de vous renvoyer chez vous.
+        p: D'accord je vais le faire alors.
+        n: Merci de votre aides, vous n'avez plus beaucoup de temp les erreurs essaye de nous effacer.
+    }
+}
+
+NPC () {
+
+}
+
